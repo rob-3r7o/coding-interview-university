@@ -751,7 +751,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
 ## Trees
 
 - ### Trees - Notes & Background
-- [x]
+- [x] 
     - [ ] [Series: Trees (video)](https://www.coursera.org/lecture/data-structures/trees-95qda)
     - basic tree construction
     - traversal
