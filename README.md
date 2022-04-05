@@ -813,16 +813,17 @@ if you can identify the runtime complexity of different algorithms. It's a super
     - [ ] [Building a heap (video)](https://www.coursera.org/learn/data-structures/lecture/dwrOS/building-a-heap)
     - [x] [MIT: Heaps and Heap Sort (video)](https://www.youtube.com/watch?v=B7hVxCmfPtM&index=4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
     - [ ] [CS 61B Lecture 24: Priority Queues (video)](https://archive.org/details/ucberkeley_webcast_yIUFT6AKBGE)
-    - [ ] [Linear Time BuildHeap (max-heap)](https://www.youtube.com/watch?v=MiyLo8adrWw)
-    - [ ] Implement a max-heap:
+    - [x] [Linear Time BuildHeap (max-heap)](https://www.youtube.com/watch?v=MiyLo8adrWw)
+    - [x] Implement a max-heap:
         - [x] insert
         - [x] sift_up - needed for insert
         - [x] get_max - returns the max item, without removing it
         - [x] get_size() - return number of elements stored
         - [ ] is_empty() - returns true if heap contains no elements
-        - [ ] extract_max - returns the max item, removing it
+        - [x] extract_max - returns the max item, removing it
         - [ ] sift_down - needed for extract_max
-        - [ ] remove(x) - removes item at index x
+        - [x] remove(x) - removes item at index x
+        - [x] max_heapify - corrects a violation of the heap
         - [ ] heapify - create a heap from an array of elements, needed for heap_sort
         - [ ] heap_sort() - take an unsorted array and turn it into a sorted array in-place using a max heap or min heap
 
