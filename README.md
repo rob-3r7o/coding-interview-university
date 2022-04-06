@@ -819,13 +819,13 @@ if you can identify the runtime complexity of different algorithms. It's a super
         - [x] sift_up - needed for insert
         - [x] get_max - returns the max item, without removing it
         - [x] get_size() - return number of elements stored
-        - [ ] is_empty() - returns true if heap contains no elements
+        - [x] is_empty() - returns true if heap contains no elements
         - [x] extract_max - returns the max item, removing it
         - [ ] sift_down - needed for extract_max
         - [x] remove(x) - removes item at index x
         - [x] max_heapify - corrects a violation of the heap
-        - [ ] heapify - create a heap from an array of elements, needed for heap_sort
-        - [ ] heap_sort() - take an unsorted array and turn it into a sorted array in-place using a max heap or min heap
+        - [x] heapify - create a heap from an array of elements, needed for heap_sort
+        - [x] heap_sort() - take an unsorted array and turn it into a sorted array in-place using a max heap or min heap
 
 ## Sorting
 
